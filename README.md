@@ -11,8 +11,9 @@
 
 <h3 align="left">Follow me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-rasoul-danesh-51460a173?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rasoul-danesh-51460a173)](https://linkedin.com/in/rasoul-danesh-51460a173) 
-
+<a href="https://linkedin.com/in/rasoul-danesh-51460a173" target="_blank" rel="noreferrer">
+   Linkdin
+</a> 
 <a href="https://virgool.io/@rasouldanesh" target="_blank" rel="noreferrer">
    Virgool
 </a> 
